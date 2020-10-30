@@ -1,0 +1,33 @@
+h1 {
+    color:rgb(185, 114, 48);
+    font-family: Arial;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: "Travel"5px;
+}
+ td{
+     text-align: right;
+ }
+
+
+h2{
+    text-align-last: center;   
+}
+
+h3{
+   text-align: center;
+    text-decoration: none;
+  
+    a { text-decoration: none; }
+}
+
+body{
+    background-image: url("gambar/wpp.jpg");
+    background-repeat: repeat;
+   
+}
+ 
+
+
+
+
