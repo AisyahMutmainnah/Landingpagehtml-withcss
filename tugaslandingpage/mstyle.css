@@ -1,0 +1,39 @@
+h1 {
+    color:rgb(185, 114, 48);
+    font-family: Arial;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: "Travel"5px;
+    font-weight: bold;
+}
+ td{
+     text-align: right;
+ }
+
+
+h2{
+    text-align-last: center; 
+    text-align: center;
+    line-height: 3cm;
+
+}
+
+h3{
+   text-align: center;
+    text-decoration: none;
+    font-size: 2cm;
+   font-style: oblique;
+
+body{
+    background-color: burlywood;
+    background-image: url("gambar/wpp.jpg");
+}
+ div{
+     width: 300px;
+     border: 15px sandybrown;
+     padding: 10;
+     margin-inline-start: 8%;
+ }
+
+
+
